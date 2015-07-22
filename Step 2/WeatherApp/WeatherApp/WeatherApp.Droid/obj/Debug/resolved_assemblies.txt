@@ -1,0 +1,28 @@
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\WeatherApp\WeatherApp.Droid\bin\Debug\WeatherApp.Droid.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Autofac.3.5.2\lib\portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\Autofac.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Forms.1.4.3.6376\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Tasks.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Android.Support.v4.22.2.0.0\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Forms.1.4.3.6376\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Forms.1.4.3.6376\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Forms.1.4.3.6376\lib\MonoAndroid10\Xamarin.Forms.Platform.dll
+C:\Personal\CHARLAS\TLP Innova\Taller\Step 2\WeatherApp\packages\Xamarin.Forms.1.4.3.6376\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Resources.ResourceManager.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Debug.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Tools.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ObjectModel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.IO.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.ReaderWriter.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Globalization.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Expressions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Dynamic.Runtime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Extensions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Extensions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.RegularExpressions.dll

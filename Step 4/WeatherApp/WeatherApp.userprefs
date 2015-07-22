@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="WeatherApp\WeatherApp\WeatherApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp\WeatherApp\Views\MainView.xaml">
+    <Files>
+      <File FileName="WeatherApp\WeatherApp\Views\MainView.xaml" Line="6" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
